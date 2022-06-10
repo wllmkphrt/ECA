@@ -11,3 +11,4 @@ both patterns of chaotic randomness, and also complex, persistent forms of infor
 
 Here is an example of a colormap output for rule 110:
 ![rule110_example](https://user-images.githubusercontent.com/33963737/172966363-37ddc5d7-dbc2-443d-a601-2b43f0935051.png)
+The actual output is not merely a picture, but rather a mathematical plot which can be zoomed in and out.
