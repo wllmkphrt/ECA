@@ -8,3 +8,4 @@ available elsewhere, but I thought it would be fun to build a program from scrat
 of arbitrary length. I wanted this to be fully customizable, so that a user could run any ECA rule for any number of generations, as well as being able to select
 various boundary conditions. I think it is extremely interesting to see such a clear visualization that simple, deterministic computational rules can generate
 both patterns of chaotic randomness, and also complex, persistent forms of information across generations.
+![rule110_example](https://user-images.githubusercontent.com/33963737/172966363-37ddc5d7-dbc2-443d-a601-2b43f0935051.png)
