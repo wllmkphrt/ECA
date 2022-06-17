@@ -1,5 +1,5 @@
 # ECA
-a program for generating colormaps of elementary cellular automata
+a program for generating spacetime colormaps of elementary cellular automata
 
 I gained an interest in cellular automata after reading the science fiction book _Permutation City_ by Greg Egan, and did a bit of studying about them after
 finishing the book. I learned about von Neumann neighborhoods, Conway's Game of Life, and Wolfram's elementary cellular automata, the latter of which I thought
